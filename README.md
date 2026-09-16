@@ -52,3 +52,5 @@ $ python -m pip install -r requirements.txt
 
 ## Trained weight
 
+- HemoWick_Korea Cohort_weight: [[Google Drive]](https://drive.google.com/file/d/1e0RJbo3p-Y9C1nCSYFkfsQl6AhmZgRVI/view?usp=drive_link)
+- HemoWick_Senegal Cohort_weight: [[Google Drive]](https://drive.google.com/file/d/1BGXVsnH45PlbrG-X5CbLeMpe915sAtY_/view?usp=drive_link)
